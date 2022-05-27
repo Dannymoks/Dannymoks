@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dannymoks
-- 👀 I’m interested in coding for Instagram hack
+- 👀 I’m interested in coding hack
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dannymoks@gmail.com
